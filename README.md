@@ -12,6 +12,7 @@ VK Mini App для магазина Kotleta Boost (PUBG)
 + Просмотр заказов
 + Просмотр исполнителей
 + Доступ к чатам (read‑only)
++ Добавление массово UC промокодов одним .txt файлом
 
 ## Технологии
  Frontend: React + VKUI + Vite
